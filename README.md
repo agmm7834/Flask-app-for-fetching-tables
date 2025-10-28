@@ -68,10 +68,3 @@ curl "http://localhost:5000/api/products?page=1&per_page=10"
 ```bash
 curl "http://localhost:5000/api/products?category=electronics"
 ```
-
-## Tech Stack
-
-- Flask 3.0
-- Flask-SQLAlchemy 3.1
-- Flask-CORS 4.0
-- SQLite
